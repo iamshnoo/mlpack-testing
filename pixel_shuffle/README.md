@@ -38,12 +38,15 @@ To run the ```.cpp``` file, you need to have [armadillo](http://arma.sourceforge
 g++ test.cpp -o test -larmadillo && ./test
 ```
 
-To run  ```Pixel_Shuffle_Visual_Experiments.ipynb```, you would need pytorch,
-matplotlib, seaborn, numpy python libraries.
+To run  ```Pixel_Shuffle_Demo_1.ipynb```, you would need pytorch and numpy
+python libraries.
 
-To run  ```Instance_Norm_as_BatchNorm_wrapper.ipynb```, you would need pytorch,
+To run  ```Pixel_Shuffle_Demo_2.ipynb```, you would need pytorch,
 numpy and armadillo. To avoid issues with linking the libraries correctly, it is
 better to run the notebook in Google Colab.
+
+To run  ```Pixel_Shuffle_Visual_Experiments.ipynb```, you would need pytorch,
+matplotlib, seaborn, numpy python libraries.
 
 ## Google Colab links for notebooks
 
