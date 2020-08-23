@@ -1,8 +1,11 @@
 # UnPool layer
 
 Contains all the work done on the Spatial Dropout layer.
+This layer does an approximate inverse of the Max Pool operation.
 
 ## Link to PR
+
+[#2493](https://github.com/mlpack/mlpack/pull/2493)
 
 ## Link to Blogs
 
