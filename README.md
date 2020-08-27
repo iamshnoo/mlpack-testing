@@ -81,11 +81,14 @@ branches I have worked on so far.
 <p></p>
 </div>
 
-I will also be contributing to
+I have also contributed to
 [mlpack-TensorFlow-Translator](https://github.com/sreenikSS/mlpack-Tensorflow-Translator)
-in the coming weeks and will update this section then with more information
-about it. I am currently working on understanding the working of the translator
-and working on changes needed to bring it closer towards a working state.
+in the last couple of weeks. The work done so far can be tracked down to the
+following single large PR that incorporates many changes across the entire
+source code. Currently, there are only a couple more issues left to resolve to
+bring the translator to a complete working state.
+
+- [PR #2](https://github.com/sreenikSS/mlpack-Tensorflow-Translator/pull/2/)
 
 ---
 
